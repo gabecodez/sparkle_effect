@@ -1,6 +1,8 @@
+// Filename: sparkle_effect.pde
 // Author: Gabriel Sullivan
 // Purpose: This program features an AI generated background with visual effects created using
 //          an array of objects moving in 3D space based on various rules.
+//          This was created for CPSC220 with Dr. Thiep Pham at Kutztown University
 // AI Image Prompt: "Generate an image of a snowy German Christmas village at night"
 
 // global variables
